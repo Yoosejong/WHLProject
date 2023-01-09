@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	index test입니다.
 </body>
 </html>
